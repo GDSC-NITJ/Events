@@ -1,8 +1,8 @@
 # 2021 September Record for Events 
 ---
-
-  - [27](https://gdsc-nitj.github.io/Events/2021/september/27)
-  - [30](https://gdsc-nitj.github.io/Events/2021/september/30)
+  
+  - [27 Google Cloud](https://gdsc-nitj.github.io/Events/2021/september/27)
+  - [30 Github and Azure](https://gdsc-nitj.github.io/Events/2021/september/30)
 
 ---
 
