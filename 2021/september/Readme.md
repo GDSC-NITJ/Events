@@ -9,3 +9,4 @@
 ## Supporting Documents 
 ---
   - [30 Days of Cloud Syllabus and Details](https://gdsc-nitj.github.io/Events/2021/september/month-of-google-cloud-2021) 
+  - [Graphics](https://gdsc-nitj.github.io/Events/2021/september/graphics/Graphics)
